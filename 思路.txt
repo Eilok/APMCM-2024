@@ -1,0 +1,25 @@
+Q1：
+问题要求：
+（1）按宠物类型分析中国宠物行业在过去5年的发展
+（2）分析影响中国宠物行业发展的因素，用模型预测其未来三年的发展
+解题思路：
+
+
+Q2：
+同Q1问题，只是主体变为海外国家（美国、法国、德国）
+
+Q3:
+？基于全球宠物市场需求和中国发展
+(1) 分析中国宠物食品行业发展
+(2) 预测未来三年中国宠物食品行业生产值和出口值
+
+Q4：
+(1) 定量分析外国（欧洲、美国）经济政策对中国宠物食品行业发展的影响
+(2) 基于量化结果，为中国宠物食品行业可持续发展提供策略
+
+宠物行业数据库：
+https://www.petslib.cn/search.html?order_by=publish_date&module_id=78&invite_code=WUdE71978fqluVk
+派读
+https://petdata.cn/index.html
+艾媒
+https://data.iimedia.cn/page-category.jsp?nodeid=49120275
