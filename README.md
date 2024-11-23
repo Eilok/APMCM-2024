@@ -1,2 +1,2 @@
 # APMCM-2024
-Problem D solution
+Problem C solution
